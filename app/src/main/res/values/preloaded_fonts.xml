@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/archivo_black</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/cherry_swash</item>
+        <item>@font/flavors</item>
+        <item>@font/galada</item>
+    </array>
+</resources>

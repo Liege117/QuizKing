@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz King</string>
+    <string name="quiz_king">Quiz King</string>
+    <string name="start">Start</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="about">About</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="next_question">Next Question</string>
+    <string name="quit">Quit</string>
+    <string name="questions">Questions</string>
+    <string name="your_score">Your Score</string>
+    <string name="_0">0</string>
+    <string name="restart">Restart</string>
+    <string name="prankul_verma">Prankul Verma</string>
+    <string name="sachet_kumar_dubey">Sachet Kumar Dubey</string>
+    <string name="kushagra_srivastava">Kushagra Srivastava</string>
+    <string name="startquiz">start quiz</string>
+    <string name="back">back</string>
+    <string name="this_app_was_made_by">This app was made by</string>
+    <string name="question_null">Question Null</string>
+</resources>
